@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\gomezcel\source\repos\test\test\test.cpp(124,10): warning C4101: 'opcion': unreferenced local variable
+C:\Users\gomezcel\source\repos\test\test\test.cpp(163,21): warning C4101: 'letra': unreferenced local variable
+  test.vcxproj -> C:\Users\gomezcel\source\repos\test\Debug\test.exe
